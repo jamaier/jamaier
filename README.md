@@ -36,9 +36,10 @@
 ### 📫 How to reach me: 
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/jacobamaier)
+[![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/504470662132400129)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamaier&layout=compact)](https://github.com/jamaier/github-readme-stats)
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jamaier&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jamaier/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jamaier&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/jamaier/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamaier&layout=compact)](https://github.com/jamaier/github-readme-stats)
