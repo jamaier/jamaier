@@ -29,14 +29,8 @@
 
 
 
-<!-- 
-#### - Things I look forward to learning:
-
-
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Jest logo" title="Jest" height="25" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="Jest" height="25" /> -->
-
 ### 📫 How to reach me: 
+
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Email&logoColor=white" alt="Gmail logo" title="Gmail" height="25" />](mailto:jacobamaier@gmail.com)
 &nbsp;
