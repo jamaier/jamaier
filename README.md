@@ -24,15 +24,13 @@
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest logo" title="Jest" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js logo" title="Node" height="25" />
-&nbsp;
-<img src="	https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+
 
 
 #### - Things I look forward to learning:
 
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Jest logo" title="Jest" height="25" />
-&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="Jest" height="25" />
 
 ### 📫 How to reach me: 
@@ -40,6 +38,7 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/jacobamaier)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamaier&layout=compact)](https://github.com/jamaier/github-readme-stats)
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jamaier&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jamaier/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jamaier&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/jamaier/github-readme-stats#gh-light-mode-only)
