@@ -38,8 +38,14 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discordapp.com/users/504470662132400129)
 
+<br>
+<br>
+<br>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jamaier&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jamaier/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jamaier&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/jamaier/github-readme-stats#gh-light-mode-only)
+
+<br>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamaier&layout=compact)](https://github.com/jamaier/github-readme-stats)
