@@ -19,11 +19,14 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js logo" title="Node" height="25" />
 &nbsp;
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="git logo" title="git" height="25" />
+&nbsp;
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="Webpack" title="Webpack" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint logo" title="ESLint" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest logo" title="Jest" height="25" />
+<br>
 &nbsp;
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git logo" title="git" height="25" />
 
@@ -49,3 +52,5 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamaier&layout=compact)](https://github.com/jamaier/github-readme-stats)
+
+[![](https://visitcount.itsvg.in/api?id=jamaier&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
