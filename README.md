@@ -53,4 +53,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamaier&layout=compact)](https://github.com/jamaier/github-readme-stats)
 
-[![](https://visitcount.itsvg.in/api?id=jamaier&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
