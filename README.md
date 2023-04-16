@@ -3,6 +3,8 @@
 <p>My name is Jacob, but feel free to call me Jake.</p>
 <p>I am currently a Full-Stack Web Development student in the greater Portland Metro area.</p>
 
+<hr>
+
 ### 🌱 Technolgies I'm currently learning: 
 
 &nbsp;
@@ -10,12 +12,20 @@
 &nbsp;
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="CSharp logo" title="CSharp" height="25" />
 &nbsp;
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="NextJS logo" title="NextJS" height="28" />
+&nbsp;
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="React logo" title="React" height="27" />
+&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />
+&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" />
+<br>
+&nbsp;
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind logo" title="Tailwind" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" />
-<br>
 &nbsp;
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js logo" title="Node" height="25" />
 &nbsp;
@@ -29,8 +39,7 @@
 <br>
 &nbsp;
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git logo" title="git" height="25" />
-
-
+<hr>
 
 ### 📫 How to reach me: 
 
@@ -41,15 +50,12 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discordapp.com/users/504470662132400129)
 
-<br>
-<br>
-<br>
+<hr>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jamaier&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jamaier/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jamaier&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/jamaier/github-readme-stats#gh-light-mode-only)
 
-<br>
-<br>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamaier&layout=compact)](https://github.com/jamaier/github-readme-stats)
 
