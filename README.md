@@ -27,7 +27,6 @@
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="CSharp logo" title="CSharp" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js logo" title="Node" height="25" />
-&nbsp;
 <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="ThreeJS logo" title="ThreeJS" height="25" />
 &nbsp;
 <br>
