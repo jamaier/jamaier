@@ -67,7 +67,7 @@
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Email&logoColor=white" alt="Gmail logo" title="Gmail" height="25" />](mailto:jacobamaier@gmail.com)
 &nbsp;
-[<a target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" /></a>](https://www.linkedin.com/in/jacobamaier)
+[<a href="https://www.linkedin.com/in/jacobamaier" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" /></a>](https://www.linkedin.com/in/jacobamaier)
 &nbsp;
 [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/>](https://discordapp.com/users/504470662132400129)
 
