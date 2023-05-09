@@ -2,6 +2,7 @@
 
 <p>My name is Jacob, but feel free to call me Jake.</p>
 <p>I am currently a Jr. Full-Stack Web Developer in the greater Portland Metro area.</p>
+<br>
 <hr>
 
 ### 🦾 Languages:
@@ -59,7 +60,6 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MognoDB logo" title="MongoDB" height="27" />
   &nbsp;
 </div>
-<br>
 <br>
 <hr>
 
