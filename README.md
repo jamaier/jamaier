@@ -41,7 +41,6 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git logo" title="git" height="25" />
   &nbsp;
 </div>
-<br>
 <hr>
 
 ### 🌱 Working on improving:
@@ -59,7 +58,6 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MognoDB logo" title="MongoDB" height="27" />
   &nbsp;
 </div>
-<br>
 <hr>
 
 ### 📫 How to reach me:
@@ -77,8 +75,7 @@
 
 <br>
 
-![](https://raw.githubusercontent.com/jamaier/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/jamaier/github-stats/master/generated/languages.svg#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamaier&layout=compact)](https://github.com/jamaier/github-readme-stats)
 
 <br>
 
