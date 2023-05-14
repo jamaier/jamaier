@@ -2,7 +2,6 @@
 
 <p>My name is Jacob, but feel free to call me Jake.</p>
 <p>I am currently a Jr. Full-Stack Web Developer in the greater Portland Metro area.</p>
-<br>
 <hr>
 
 ### 🦾 Languages:
@@ -78,7 +77,8 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamaier&layout=compact)](https://github.com/jamaier/github-readme-stats)
+![](https://raw.githubusercontent.com/jamaier/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/jamaier/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <br>
 
