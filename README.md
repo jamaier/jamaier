@@ -113,7 +113,6 @@ Always learning & doing stuff and things!
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" title="Arduino" height="28" />
   &nbsp;
 
-  <br>
 </div>
 <hr>
 
