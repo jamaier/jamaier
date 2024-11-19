@@ -1,6 +1,6 @@
 ## Thanks for stopping in! 👋
 
-#### 🖥️ Software Engineer @ [Nombolo](https//:nombo.com)
+#### 🖥️ Software Engineer @ [Ucardia](https://ucardia.com/)
 
 Always learning & doing stuff and things!
 
