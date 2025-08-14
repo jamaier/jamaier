@@ -6,13 +6,11 @@ Always learning & doing stuff and things!
 
 #### 📫 How to reach me:
 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Email&logoColor=white" alt="Gmail logo" title="Gmail" height="25" />](mailto:jacobamaier@gmail.com)
-&nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/jacobamaier)
 
 <hr>
 
-### 🦾 Languages:
+<!-- ### 🦾 Languages:
 
 <div>
   &nbsp;
@@ -28,9 +26,9 @@ Always learning & doing stuff and things!
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3 logo" title="CSS3" height="28" />
   &nbsp;
 </div>
-<hr>
+<hr> -->
 
-### 🤖 Technolgies:
+<!-- ### 🤖 Technolgies:
 
 <div>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native logo" title="React-Native" height="28" />
@@ -59,11 +57,11 @@ Always learning & doing stuff and things!
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MognoDB logo" title="MongoDB" height="27" />
   &nbsp;
 </div>
-<hr>
+<hr> -->
 
-### ☁️ AWS Cloud Skills:
+<!-- ### ☁️ AWS Cloud Skills: -->
 
-<div>
+<!-- <div>
   <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" alt="EC2 logo" title="EC2" height="28" />
   &nbsp;
   <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="S3 logo" title="S3" height="28" />
@@ -87,23 +85,21 @@ Always learning & doing stuff and things!
   <img src="https://img.shields.io/badge/AWS%20Secrets%20Manager-DD344C.svg?style=for-the-badge&logo=AWS-Secrets-Manager&logoColor=white" alt="Secrets Manager logo" title="SecretsManager" height="28" />
   &nbsp;
 </div>
-<hr>
+<hr> -->
 
-### Tools:
+<!-- ### Tools:
 
 <div>
    <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira Logo" title="Jira" height="28" />
-   &nbsp;
-   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Logo" title="Visual Studio Code" height="28" />
    &nbsp;
    <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Logo" title="Docker" height="28" />
    &nbsp;
    <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Logo" title="Postman" height="28" />
    &nbsp;
 </div>
-<hr>
+<hr> -->
 
-### 🌱 Working on improving:
+<!-- ### 🌱 Working on improving:
 
 <div>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C plus plus" title="c++" height="28" />
@@ -114,7 +110,7 @@ Always learning & doing stuff and things!
   &nbsp;
 
 </div>
-<hr>
+<hr> -->
 
 <!-- [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jamaier&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jamaier/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jamaier&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/jamaier/github-readme-stats#gh-light-mode-only) -->
